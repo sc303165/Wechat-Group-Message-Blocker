@@ -12,4 +12,9 @@
 ## 支持作者
 支持作者请不要吝啬你的star！
 
+如果愿意给作者倒一杯Cappuccino，也非常感谢：
+
+![Image text](https://raw.githubusercontent.com/sc303165/Wechat-Group-Message-Blocker/master/QRCode0.png)
+
+
 交流邮箱：cyl142857@qq.com
